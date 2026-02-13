@@ -21,4 +21,4 @@ AI to adress and helpprevent future problems.
 
 
 - Used Mobilenet and U-net to classify and segment 3000 MRI scans 
-- After 150 Epouchs got a verry impresive accuracy ~ 92%
+- After 100 Epouchs got a verry impresive accuracy ~ 92%
