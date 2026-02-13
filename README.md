@@ -3,9 +3,13 @@
 
 brain yumors are one of the most fatal conditions or at 
 least making life seemingly impossible for it's patients.
-in the us alone ....% dye every year from brain tumors 
+in the globally 240,000 die every year from brain tumors 
 them selfs or dysfunctioning in nurmal daylife beacause 
-of them. which make it a very urgent to treat it before
+of them. It's aleading cause of death wordwide with ~50% 
+cases being millignant. It also reduses life expectancy by 
+an average of 27 years. nearly 1 million americans are 
+living with brain tumors. 93,390 received a primmary 
+diagnosis in 2023. which make it a very urgent to treat it before
 it's too late to interven.
 
 
@@ -17,3 +21,4 @@ AI to adress and helpprevent future problems.
 
 
 - Used Mobilenet and U-net to classify and segment 3000 MRI scans 
+- After 150 Epouchs got a verry impresive accuracy ~ 92%
